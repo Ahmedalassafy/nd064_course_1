@@ -7,7 +7,7 @@ The current folder conatins the following starter code for the classroom exercis
 ├── go-helloworld      # Docker and Kubernetes exercise
 │   ├── README.md
 │   └── main.go
-├── manifests
+├── templates
 │   ├── configmap.yaml
 │   ├── deployment.yaml
 │   ├── namespace.yaml
